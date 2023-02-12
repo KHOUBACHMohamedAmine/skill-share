@@ -1,0 +1,8 @@
+{
+  "name": "SkillShare",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d528e389"
+}
